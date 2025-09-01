@@ -1,26 +1,26 @@
 /*global css*/
-*{
-    font-size: 30px;
-    font-family: 500;
+* {
+  font-size: 30px;
+  font-family: 500;
 }
 
-h3{
-    color: blue;
+h3 {
+  color: blue;
 }
 
-h4{
-    color: palevioletred;
+h4 {
+  color: palevioletred;
 }
 
-.myclass{
-    color: darkorange;
+.myclass {
+  color: darkorange;
 }
 
-#myid{
-    color: mediumpurple;
+#myid {
+  color: mediumpurple;
 }
 
-h5,p{
-    color: maroon;
+h5,
+p {
+  color: maroon;
 }
-
